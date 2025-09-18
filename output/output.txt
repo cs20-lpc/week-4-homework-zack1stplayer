@@ -1,0 +1,168 @@
+PS C:\Users\zack1\OneDrive\Documents\GitHub\week-4-homework-zack1stplayer>  & 'c:\Users\zack1\.vscode\extensions\ms-vscode.cpptools-1.26.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-ezygycpd.z5m' '--stdout=Microsoft-MIEngine-Out-gmerlwkk.tho' '--stderr=Microsoft-MIEngine-Error-2obpiou1.vnx' '--pid=Microsoft-MIEngine-Pid-saq1widi.gxq' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi' 
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 4
+
+All Students:
+ None
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 2
+
+Enter ID to delete: 2
+Could not find student with ID 2
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 3
+
+Enter ID to search: 5
+Could not find student with ID 5
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 1
+
+Enter ID: 1
+Enter Name: asda2
+Enter GPA: 124.21
+Successfully added student with ID 1
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 1
+
+Enter ID: 2
+Enter Name: dwhk 
+Enter GPA: -12.1
+Successfully added student with ID 2
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 1
+
+Enter ID: 3 
+Enter Name: aed
+Enter GPA: 0
+Successfully added student with ID 3
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 4
+
+All Students:
+ 1 asda2 124.21 Courses: None
+ 2 dwhk -12.1 Courses: None
+ 3 aed 0 Courses: None
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 6
+
+Enter Course Name: Asdf
+Enter Room #: 3
+Enter Student ID: 2
+Course successfully added to student with ID 2
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 4
+
+All Students:
+ 1 asda2 124.21 Courses: None
+ 2 dwhk -12.1 Courses: Asdf : 3
+ 3 aed 0 Courses: None
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 2
+
+Enter ID to delete: 2
+Deleted student with ID 2
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 4
+
+All Students:
+ 1 asda2 124.21 Courses: None
+ 3 aed 0 Courses: None
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 6
+
+Enter Course Name: asdf
+Enter Room #: 3
+Enter Student ID: 2
+Could not find student with ID 2
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 5
+
+Number of Students: 2
+1. Insert Student
+2. Delete Student
+3. Search Student
+4. Display All
+5. Count Students
+6. Add a course
+7. Exit
+Enter choice: 7
+
+Goodbye
